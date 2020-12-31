@@ -3,7 +3,6 @@ import './Header.css';
 import {Link} from "react-scroll";
 import 'aos/dist/aos.css';
 import {CgMenuHotdog} from "react-icons/all";
-import Burger from "../Nav/Burger";
 
 const Header = () => {
 
