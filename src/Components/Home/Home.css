@@ -1,0 +1,243 @@
+.home {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 95vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 15px;
+    background-color: #e0ddca;
+}
+
+/*CONTENT SECTION*/
+
+.home > .content-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.home > .content-section > .home-content {
+    border-left: 17px solid #9ccd62;
+}
+
+.home > .content-section > .home-content > .block {
+    padding-left: 35px;
+}
+
+.home > .content-section > .home-content > .block > h6 {
+    color: #3c3d42;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+.home > .content-section > .home-content > .block > h1 {
+    color: #3c3d42;
+    font-size: 75px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+.home > .content-section > .home-content > .block > .typical {
+    color: #3c3d42;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+.home > .content-section > .home-content > .block > .cv-btn {
+    padding-top: 20px;
+}
+
+
+.home > .content-section > .home-content > .block > .cv-btn a {
+    border-radius: 4px;
+    color: #9ccd62;
+    border: 1px solid #9ccd62;
+    padding: 12px 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all .7s ease;
+}
+
+.home > .content-section > .home-content > .block > .cv-btn a:hover {
+    background-color: #9ccd62;
+    color: #fff;
+}
+
+
+/*PERSON SECTION*/
+
+.home > .person-section {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.home > .person-section > img {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    top: 0;
+    transform: translateX(-50%);
+    transition: bottom 2s;
+}
+
+.home > .person-section > .main-image-link > img {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    top: 0;
+    transform: translateX(-50%);
+    transition: bottom 2s;
+}
+
+.person-section:hover .back-image {
+    bottom: 50px;
+}
+
+.main-image {
+    width: 450px;
+    border-radius: 50% 50% 50% 45%;
+    position: absolute;
+    margin: auto;
+    z-index: 100;
+}
+
+
+.back-image {
+    opacity: .5;
+    width: 600px;
+    height: 490px;
+    position: absolute;
+    margin: auto;
+    z-index: -1;
+}
+
+@media (max-width: 1400px) and (min-width: 1100px) {
+    .person-section {
+        margin-right: 100px;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .home {
+        display: grid;
+        grid-template-areas: 'person' 'content';
+        grid-template-columns: 1fr;
+        grid-template-rows: 49vh 47vh;
+    }
+
+    /*CONTENT SECTION*/
+    .home > .content-section {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .home > .content-section > .home-content {
+        border-left: 7px solid #9ccd62;
+    }
+
+    .home > .content-section > .home-content > .block {
+        padding-left: 25px;
+    }
+
+    .home > .content-section > .home-content > .block > h6 {
+        color: #3c3d42;
+        font-size: 19px;
+        font-weight: 500;
+        margin: 0;
+        padding: 0;
+    }
+
+    .home > .content-section > .home-content > .block > h1 {
+        color: #3c3d42;
+        font-size: 42px;
+        font-weight: 600;
+        margin: 0;
+        padding: 0;
+    }
+
+    .home > .content-section > .home-content > .block > .typical {
+        color: #3c3d42;
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0;
+        padding: 0;
+    }
+
+    .home > .content-section > .home-content > .block > .cv-btn {
+        padding-top: 10px;
+    }
+
+
+    .home > .content-section > .home-content > .block > .cv-btn a {
+        padding: 7px 15px;
+        font-size: 10px;
+        font-weight: bolder;
+        transition: all .7s ease;
+    }
+
+    .home > .content-section > .home-content > .block > .cv-btn a:hover {
+        background-color: #9ccd62;
+        color: #fff;
+    }
+
+    /*PERSON SECTION*/
+    .home > .person-section {
+        grid-area: person;
+        margin-top: 20vh;
+    }
+
+    .main-image {
+        width: 228px;
+    }
+
+    .back-image {
+        width: 300px;
+        height: 250px;
+    }
+
+}
+
+@media (max-width: 1050px) and  (min-width: 651px){
+    .home {
+        display: grid;
+        grid-template-areas: 'person' 'content';
+        grid-template-columns: 1fr;
+        grid-template-rows: 50vh 50vh;
+    }
+
+    .home > .person-section {
+        grid-area: person;
+
+    }
+
+    .main-image {
+        width: 365px;
+        border-radius: 50% 50% 50% 45%;
+        position: absolute;
+        margin: auto;
+        z-index: 1;
+    }
+
+
+    .back-image {
+        width: 500px;
+        height: 390px;
+        position: absolute;
+        margin: auto;
+        z-index: -1;
+    }
+}
+
+

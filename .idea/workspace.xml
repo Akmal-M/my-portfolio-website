@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/About/About.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Nav/Burger.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Nav/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Nav/RightNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Text/Text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Text/TextAboutMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hero2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/person2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mEieQfWfqAhF6Vgi7lE90gxorq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Nav" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Nav" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Scripts" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\InTouch" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Skills" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="" />
+      <created>1609065246010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609065246010</updated>
+      <workItem from="1609065247254" duration="1104000" />
+      <workItem from="1609066416374" duration="1554000" />
+      <workItem from="1609068444973" duration="1722000" />
+      <workItem from="1609070254372" duration="966000" />
+      <workItem from="1609072395622" duration="400000" />
+      <workItem from="1609072847470" duration="1991000" />
+      <workItem from="1609074859714" duration="1783000" />
+      <workItem from="1609076671920" duration="1771000" />
+      <workItem from="1609078483442" duration="1943000" />
+      <workItem from="1609080542046" duration="1663000" />
+      <workItem from="1609082351275" duration="1780000" />
+      <workItem from="1609084161758" duration="1780000" />
+      <workItem from="1609085974142" duration="1762000" />
+      <workItem from="1609088000777" duration="1712000" />
+      <workItem from="1609089805350" duration="1787000" />
+      <workItem from="1609091629734" duration="1778000" />
+      <workItem from="1609093439287" duration="1769000" />
+      <workItem from="1609095279057" duration="1623000" />
+      <workItem from="1609097083942" duration="1795000" />
+      <workItem from="1609098940532" duration="1776000" />
+      <workItem from="1609100746244" duration="1783000" />
+      <workItem from="1609102560174" duration="1780000" />
+      <workItem from="1609104364369" duration="1393000" />
+      <workItem from="1609143014404" duration="1782000" />
+      <workItem from="1609144842530" duration="1294000" />
+      <workItem from="1609146650885" duration="1306000" />
+      <workItem from="1609148764491" duration="1780000" />
+      <workItem from="1609150574802" duration="1777000" />
+      <workItem from="1609152380393" duration="622000" />
+      <workItem from="1609154614398" duration="677000" />
+      <workItem from="1609156596593" duration="1783000" />
+      <workItem from="1609158423213" duration="1774000" />
+      <workItem from="1609160226316" duration="2123000" />
+      <workItem from="1609162374767" duration="1785000" />
+      <workItem from="1609164186404" duration="1782000" />
+      <workItem from="1609166047474" duration="1348000" />
+      <workItem from="1609171170946" duration="1784000" />
+      <workItem from="1609172980497" duration="1789000" />
+      <workItem from="1609174797800" duration="1908000" />
+      <workItem from="1609176794303" duration="1852000" />
+      <workItem from="1609178674481" duration="1783000" />
+      <workItem from="1609180489425" duration="1785000" />
+      <workItem from="1609182303959" duration="1781000" />
+      <workItem from="1609184107308" duration="1789000" />
+      <workItem from="1609185918751" duration="1786000" />
+      <workItem from="1609187724704" duration="1789000" />
+      <workItem from="1609189543555" duration="1892000" />
+      <workItem from="1609191470501" duration="1783000" />
+      <workItem from="1609193302259" duration="3681000" />
+      <workItem from="1609197004746" duration="1254000" />
+      <workItem from="1609216316434" duration="1774000" />
+      <workItem from="1609218125095" duration="1781000" />
+      <workItem from="1609227624323" duration="1659000" />
+      <workItem from="1609229431334" duration="599000" />
+      <workItem from="1609238151160" duration="1779000" />
+      <workItem from="1609239966056" duration="1773000" />
+      <workItem from="1609241777167" duration="1772000" />
+      <workItem from="1609243587652" duration="425000" />
+      <workItem from="1609385438815" duration="1694000" />
+      <workItem from="1609387174561" duration="1528000" />
+      <workItem from="1609389259181" duration="1493000" />
+      <workItem from="1609391050827" duration="1765000" />
+      <workItem from="1609392861710" duration="1663000" />
+      <workItem from="1609399797228" duration="1717000" />
+      <workItem from="1609401669023" duration="1736000" />
+      <workItem from="1609403498190" duration="1759000" />
+      <workItem from="1609405287308" duration="2080000" />
+      <workItem from="1609407400243" duration="1494000" />
+      <workItem from="1609409508098" duration="18398000" />
+      <workItem from="1609428109835" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="189" key="FileChooserDialogImpl" timestamp="1609197312119">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="367" y="189" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1609197312119" />
+  </component>
+</project>
