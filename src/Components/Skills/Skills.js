@@ -17,7 +17,7 @@ const Skills = () => {
                             </div>
                         </div>
                         <div className="row">
-                            <div className="skill-box">
+                            <div className="skill-box"  id='skills'>
                                 <h6>HTML5</h6>
                                 <div className="skill-bar">
                                     <div className="skill-bar-in" style={{width: "80%"}}>
