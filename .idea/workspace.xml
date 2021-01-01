@@ -11,25 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Works/Works.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/person1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Burger.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Navbar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/RightNav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/hero2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/hero2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +159,8 @@
       <workItem from="1609531830621" duration="1782000" />
       <workItem from="1609533639514" duration="1483000" />
       <workItem from="1609535457772" duration="630000" />
-      <workItem from="1609537541461" duration="704000" />
+      <workItem from="1609537541461" duration="1636000" />
+      <workItem from="1609539359128" duration="609000" />
     </task>
     <servers />
   </component>

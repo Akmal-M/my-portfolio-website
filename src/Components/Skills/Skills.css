@@ -73,7 +73,9 @@
 }
 
 @media (max-width: 650px) {
-
+ .skills {
+     margin: 1vh;
+ }
 
     .skills> .container > .align-item-center {
         display: grid;
@@ -87,6 +89,7 @@
         grid-area: photo;
         width: 330px;
         margin: 5vh auto 3vh;
+        height: 45vh;
     }
 
 

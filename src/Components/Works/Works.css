@@ -72,6 +72,10 @@
         font-size: 13px;
     }
 
+    .works .works-img .column img {
+        width: 50vh;
+    }
+
 }
 
 @media (max-width: 1025px) and (min-width: 649px) {

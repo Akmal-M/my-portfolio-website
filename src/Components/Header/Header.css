@@ -73,7 +73,7 @@ header .navbar ul li a:hover {
     }
     header .navbar {
         margin: 0 auto;
-        white-space: nowrap;
+        /*white-space: nowrap;*/
     }
     header .navbar ul li a {
         font-size: 17px;
