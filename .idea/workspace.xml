@@ -11,10 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Works/Works.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Burger.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Burger.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Burger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Nav/RightNav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/hero2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/hero2.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +51,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Nav" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Works" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,13 +61,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Works" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Nav" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Scripts" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\InTouch" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Skills" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\assets\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\portfolio\src" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components" />
     </key>
   </component>
@@ -134,6 +150,27 @@
       <workItem from="1609407400243" duration="1494000" />
       <workItem from="1609409508098" duration="18398000" />
       <workItem from="1609428109835" duration="1478000" />
+      <workItem from="1609490891854" duration="1410000" />
+      <workItem from="1609492701472" duration="1384000" />
+      <workItem from="1609495359317" duration="1679000" />
+      <workItem from="1609497182316" duration="1290000" />
+      <workItem from="1609505350309" duration="1275000" />
+      <workItem from="1609507477139" duration="2326000" />
+      <workItem from="1609509849021" duration="1120000" />
+      <workItem from="1609512024508" duration="1565000" />
+      <workItem from="1609514293924" duration="1775000" />
+      <workItem from="1609516310486" duration="949000" />
+      <workItem from="1609519032277" duration="1776000" />
+      <workItem from="1609520870013" duration="1782000" />
+      <workItem from="1609522684855" duration="1846000" />
+      <workItem from="1609524559500" duration="1783000" />
+      <workItem from="1609526373626" duration="1773000" />
+      <workItem from="1609528193140" duration="1771000" />
+      <workItem from="1609530021170" duration="1780000" />
+      <workItem from="1609531830621" duration="1782000" />
+      <workItem from="1609533639514" duration="1483000" />
+      <workItem from="1609535457772" duration="630000" />
+      <workItem from="1609537541461" duration="704000" />
     </task>
     <servers />
   </component>

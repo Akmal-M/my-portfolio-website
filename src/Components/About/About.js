@@ -1,14 +1,12 @@
 import React from 'react';
 import './About.css';
-import heroSecond from '../../assets/img/hero2.jpg';
+import heroSecond from '../../assets/img/person1.jpg';
 import 'aos/dist/aos.css';
 import {
     FaTelegramPlane,
     FaFacebookF,
-    FaLinkedinIn,
     FaInstagram,
     FaWhatsapp,
-    FaSadTear,
     FaYoutube
 } from "react-icons/fa";
 
@@ -58,7 +56,7 @@ const About = () => {
 
                                     <div className="list">
                                         <label>Info</label>
-                                        <p>Write onts whatsapp or telegram.</p>
+                                        <p>I'm looking for a creative team.</p>
                                     </div>
                                 </div>
                                 {/*social links*/}

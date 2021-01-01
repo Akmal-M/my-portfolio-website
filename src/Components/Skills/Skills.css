@@ -1,6 +1,7 @@
 .skills {
     padding: 50px 15px;
     background-color: #fff;
+    margin: 10vh;
 }
 
 
@@ -20,7 +21,7 @@
     margin-top: -40px;
 }
 .row .img {
-    width: 550px;
+    height: 500px;
 }
 
 /*TEXT SIDE*/
@@ -72,6 +73,8 @@
 }
 
 @media (max-width: 650px) {
+
+
     .skills> .container > .align-item-center {
         display: grid;
         grid-template-areas: 'photo' 'bars';
@@ -85,6 +88,7 @@
         width: 330px;
         margin: 5vh auto 3vh;
     }
+
 
     .skills .skills-content .skill-box .skill-bar {
         height: 10px;

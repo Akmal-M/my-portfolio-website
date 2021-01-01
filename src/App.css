@@ -1,6 +1,7 @@
 .App {
-  max-width: 1240px;
+  max-width: 1350px;
   margin: auto;
+  overflow-y: hidden;
 }
 
 /*all*/

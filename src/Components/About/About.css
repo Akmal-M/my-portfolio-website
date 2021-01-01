@@ -1,12 +1,12 @@
 section .about-me {
     padding: 50px 15px 100px 15px;
     background-color: #fff;
-
 }
 
 .about-me > .container > .about-content > .row {
     display: grid;
     grid-template-columns: 2fr 5fr;
+    min-height: 60vh;
 }
 /*IMAGE SIDE*/
 .about-me > .container > .about-content > .row > .about-img img {

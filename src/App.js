@@ -6,9 +6,9 @@ import Skills from "./Components/Skills/Skills";
 import Intouch from "./Components/InTouch/Intouch";
 import React, {useEffect} from "react";
 import Aos from "aos";
+import Works from "./Components/Works/Works";
 import TextAboutMe from "./Components/Text/TextAboutMe";
 import TextMySkills from "./Components/Text/TextMySkills";
-import Burger from "./Components/Nav/Burger";
 
 const App = () => {
 
@@ -18,14 +18,15 @@ const App = () => {
 
     return (
         <div className="App">
-            <Burger/>
-            {/*<Header/>*/}
+            <Header/>
             <Home/>
             <TextAboutMe/>
             <About/>
             <Intouch/>
+            <Works/>
             <TextMySkills/>
             <Skills/>
+
 
         </div>
     );
