@@ -8,7 +8,7 @@
 .skills> .container > .align-item-center {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 100vh;
+    grid-template-rows: 55vh;
     grid-gap: 5vh;
 }
 
@@ -21,7 +21,7 @@
     margin-top: -40px;
 }
 .row .img {
-    height: 500px;
+    height: 200px;
 }
 
 /*TEXT SIDE*/
@@ -81,7 +81,6 @@
         display: grid;
         grid-template-areas: 'photo' 'bars';
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 2fr;
     }
 
 

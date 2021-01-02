@@ -9,6 +9,7 @@ import Aos from "aos";
 import Works from "./Components/Works/Works";
 import TextAboutMe from "./Components/Text/TextAboutMe";
 import TextMySkills from "./Components/Text/TextMySkills";
+import Service from "./Components/Service/Service";
 
 const App = () => {
 
@@ -26,8 +27,7 @@ const App = () => {
             <Works/>
             <TextMySkills/>
             <Skills/>
-
-
+            <Service/>
         </div>
     );
 }

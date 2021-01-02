@@ -1,13 +1,11 @@
 .works {
-    margin-top: 5vh;
+    margin-top: 10vh;
     min-height: 100vh;
 }
 .works h1 {
     margin: 0 auto;
-    width: 50%;
     color: #9ccd62;
     font-size: 60px;
-    font-weight: bold;
     text-align: center;
 }
 
@@ -16,19 +14,26 @@
     grid-template-columns: 1fr 2fr 2fr 2fr 2fr;
     text-align: center;
     margin: 3vh auto 7vh auto;
+    max-width: 700px;
 }
 .works .works-header:first-child {
     padding: 0;
 }
 
-.works .works-header h3 {
-    text-align: center;
+.works .works-header a {
     font-size: 20px;
     cursor: pointer;
     padding: 30px 0;
     white-space: nowrap;
-
+    text-decoration: none;
+    color: #757575;
+    font-weight: bold;
 }
+
+.works .works-header .active {
+    color: #9ccd62;
+}
+
 
 .works .works-img  {
     display: grid;
@@ -38,6 +43,17 @@
 }
 .works .works-img a {
     margin: auto;
+}
+
+.works .works-img .column img:hover {
+    box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);
+    transition: .5s;
 }
 
 .works .works-img .column{
@@ -68,7 +84,7 @@
     }
 
 
-    .works .works-header h3 {
+    .works .works-header a {
         font-size: 13px;
     }
 

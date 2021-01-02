@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import './Works.css';
 import portfolio from "../../data";
+import {NavLink} from "react-router-dom";
 
 
 const Works = () => {
@@ -26,21 +27,23 @@ const Works = () => {
         <div className='works' id='portfolio'>
             <h1>MY WORKS</h1>
             <div className='works-header'>
-                <h3 active={filter === "all"} onClick={() => setFilter("all")}>
+                <NavLink  exact={true} to="/" activeClassName="active"  active={filter === "all"} onClick={() => {
+                    setFilter("all");
+                }}>
                     All
-                </h3>
-                <h3  active={filter === "commerce"}
+                </NavLink>
+                <NavLink exact={true} to="commerce"  active={filter === "commerce"}
                      onClick={() => setFilter("commerce")}>E-commerce
-                </h3>
-                <h3  active={filter === "catalogue"}
+                </NavLink>
+                <NavLink exact={true} to="catalogue"  active={filter === "catalogue"}
                      onClick={() => setFilter("catalogue")}>Catalogue
-                </h3>
-                <h3 active={filter === "cafe&restaurant"}
+                </NavLink>
+                <NavLink exact={true} to="restaurant" active={filter === "cafe&restaurant"}
                     onClick={() => setFilter("cafe&restaurant")}>Cafe & Restaurant
-                </h3>
-                <h3  active={filter === "education"}
+                </NavLink>
+                <NavLink exact={true} to="education"  active={filter === "education"}
                      onClick={() => setFilter("education")}>Education
-                </h3>
+                </NavLink>
             </div>
 
             <div className='works-img'>
@@ -63,3 +66,5 @@ const Works = () => {
 };
 
 export default Works;
+
+
