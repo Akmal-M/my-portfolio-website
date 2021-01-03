@@ -11,25 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Language/Language.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Language/Language.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Service/Service.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Service/Service.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Text/Text.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/Text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextAboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextAboutMe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +191,9 @@
       <workItem from="1609701148583" duration="1779000" />
       <workItem from="1609702954602" duration="1739000" />
       <workItem from="1609704770105" duration="1884000" />
-      <workItem from="1609706681133" duration="1397000" />
+      <workItem from="1609706681133" duration="1781000" />
+      <workItem from="1609708500998" duration="1186000" />
+      <workItem from="1609710338979" duration="475000" />
     </task>
     <servers />
   </component>
@@ -231,6 +216,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="335" y="276" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609710798401">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1609710798401" />
     <state x="367" y="189" key="FileChooserDialogImpl" timestamp="1609197312119">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
