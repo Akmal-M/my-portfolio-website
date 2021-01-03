@@ -11,7 +11,7 @@ const Intouch = () => {
                         <h2>I'm extremely passionate about web development and design in all it's forms.</h2>
                     </div>
                     <div className="button">
-                        <a href="">Get in Touch</a>
+                        <a href="http://akmalreact@gmail.com" rel='noreferrer' target='_blank'>Get in Touch</a>
                     </div>
                 </div>
             </div>

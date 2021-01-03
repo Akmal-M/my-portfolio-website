@@ -1,0 +1,24 @@
+.language {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.language h3 {
+    margin: 1vh;
+    color: #757575;
+    cursor: pointer;
+}
+
+.language h3 .active {
+    color: #9ccd62;
+}
+
+@media (max-width: 650px) {
+    .language {
+        font-size: 10px;
+        bottom: 4px;
+        display: block;
+    }
+}

@@ -28,14 +28,14 @@ section .about-me {
     font-size: 25px;
     font-weight: 600;
     margin: 0 0 5px;
-    color: #000;
+    color: #757575;
 }
 
 .about-me .about-content .text h6 {
     font-size: 18px;
-    font-weight: 500;
+    font-weight: bold;
     margin: 0 0 15px;
-    color: #000;
+    color: #757575;
 }
 
 .about-me .about-content .text h6 span {
@@ -53,6 +53,7 @@ section .about-me {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-top: 10px;
 }
 
 .about-me .about-content .text .info .list {
@@ -91,17 +92,9 @@ section .about-me {
 }
 
 .about-me .about-content .text .social-links a {
-    height: 30px;
-    width: 30px;
-    background-color: #9ccd62;
-    border-radius: 3px;
-    display: inline-block;
-    border: 1px solid #9ccd62;
-    line-height: 28px;
-    text-align: center;
-    -webkit-transition: all .5s ease;
-    transition: all .5s ease;
-    color: #fff;
+    color: #9ccd62;
+    text-decoration: none;
+    font-size: 25px;
     margin: 10px;
 }
 
@@ -111,17 +104,9 @@ section .about-me {
 
 
 .about-me .about-content .text .social-links a:hover {
-    background: transparent;
     color: #9ccd62;
 }
 
-.about-me .about-content .text .social-links a {
-    color: #fff;
-    font-size: 22px;
-    -webkit-transition: all .5s ease;
-    transition: all .5s ease;
-    padding: 2px;
-}
 
 
 

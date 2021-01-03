@@ -1,11 +1,11 @@
 .skills {
-    padding: 50px 15px;
+    padding: 10px 15px;
     background-color: #fff;
     margin: 10vh;
 }
 
 
-.skills> .container > .align-item-center {
+.skills > .container > .align-item-center {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 55vh;
@@ -18,8 +18,8 @@
 .skills .img img {
     width: 100%;
     display: block;
-    margin-top: -40px;
 }
+
 .row .img {
     height: 200px;
 }
@@ -31,7 +31,7 @@
     font-size: 15px;
     font-weight: 400;
     line-height: 24px;
-    color: #838383;
+    color: #757575;
     margin: 15px 0 0;
 }
 
@@ -45,7 +45,7 @@
 .skills .skills-content .skill-box h6 {
     font-size: 16px;
     font-weight: 500;
-    color: #3c3d42;
+    color: #757575;
     margin: 0 0 8px;
 }
 
@@ -55,6 +55,7 @@
     position: relative;
 
 }
+
 .skills .skills-content .skill-box .skill-bar .skill-bar-in {
     background-color: #9ccd62;
     position: absolute;
@@ -64,7 +65,7 @@
 }
 
 .skills .skills-content .skill-box .skill-bar .skill-bar-in span {
-    color: #838383;
+    color: #757575;
     font-size: 16px;
     font-weight: 400;
     position: absolute;
@@ -73,30 +74,33 @@
 }
 
 @media (max-width: 650px) {
- .skills {
-     margin: 1vh;
- }
+    .skills {
+        margin: 3vh 3vh 0 3vh;
+    }
 
-    .skills> .container > .align-item-center {
+    .skills {
+        padding: 3vh 3vh 0 3vh;
+    }
+
+    .skills .container .row .skills-content {
+        height: 100vh;
+    }
+
+    .skills > .container > .align-item-center {
         display: grid;
-        grid-template-areas: 'photo' 'bars';
+        grid-template-areas:  'content' 'image';
         grid-template-columns: 1fr;
     }
 
-
     .row .img {
-        grid-area: photo;
-        width: 330px;
-        margin: 5vh auto 3vh;
+        grid-area: image;
+        width: 300px;
+        margin: 15vh auto 3vh;
         height: 45vh;
     }
-
 
     .skills .skills-content .skill-box .skill-bar {
         height: 10px;
     }
-
-
-
 
 }

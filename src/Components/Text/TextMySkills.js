@@ -1,15 +1,11 @@
 import React from 'react';
 import './Text.css';
-import {Parallax} from 'react-scroll-parallax';
 
 const TextMySkills = () => {
-
     return (
-        <div className='scroll__text' id='skills'>
-            <Parallax className="parallax" x={[250, -20]} tagOuter="figure">
+            <div className='scroll-text' id='skills' data-aos="fade-down">
                 <h1>MY SKILLS</h1>
-            </Parallax>
-        </div>
+            </div>
     )
 }
 

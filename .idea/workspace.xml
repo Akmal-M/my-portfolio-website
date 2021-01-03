@@ -11,7 +11,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Language/Language.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Language/Language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/5656.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/InTouch/Intouch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Service/Service.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Service/Service.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Service/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Service/Service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Text/Text.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/Text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextAboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextAboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Text/TextMySkills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/hero2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/hero2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +61,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Text" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -42,16 +70,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Text" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Language" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Footer" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Service" />
+      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Works" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\My PC\Desktop\portfolio\src" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Service" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Works" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Nav" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Scripts" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\InTouch" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -163,7 +191,27 @@
       <workItem from="1609586939687" duration="1782000" />
       <workItem from="1609588751589" duration="1785000" />
       <workItem from="1609590573662" duration="1771000" />
-      <workItem from="1609592395874" duration="726000" />
+      <workItem from="1609592395874" duration="3361000" />
+      <workItem from="1609595783991" duration="599000" />
+      <workItem from="1609598302578" duration="1820000" />
+      <workItem from="1609600170730" duration="1330000" />
+      <workItem from="1609608316708" duration="1279000" />
+      <workItem from="1609610133966" duration="264000" />
+      <workItem from="1609663897342" duration="1751000" />
+      <workItem from="1609665708249" duration="1656000" />
+      <workItem from="1609669566593" duration="1779000" />
+      <workItem from="1609672003332" duration="1355000" />
+      <workItem from="1609673815721" duration="750000" />
+      <workItem from="1609675640080" duration="1779000" />
+      <workItem from="1609677561368" duration="1754000" />
+      <workItem from="1609679382546" duration="706000" />
+      <workItem from="1609681206577" duration="1758000" />
+      <workItem from="1609683028207" duration="3091000" />
+      <workItem from="1609686228106" duration="1764000" />
+      <workItem from="1609688038539" duration="799000" />
+      <workItem from="1609689862896" duration="1764000" />
+      <workItem from="1609691750343" duration="1787000" />
+      <workItem from="1609693571054" duration="358000" />
     </task>
     <servers />
   </component>

@@ -7,8 +7,8 @@ import {
     FaFacebookF,
     FaInstagram,
     FaWhatsapp,
-    FaYoutube
 } from "react-icons/fa";
+import {FaLinkedinIn} from "react-icons/all";
 
 
 
@@ -24,8 +24,13 @@ const About = () => {
                             <div className="text" data-aos="fade-left">
                                 <h4>I'm Akmal M</h4>
                                 <h6><span>Web</span>  Developer & <span>UI&UX</span> Designer.</h6>
-                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, voluptate natus
-                                    eveniet rem, delectus quis alias maiores provident maxime necessitatibus.</p>
+                                <p> React Developer
+                                    with hands-on experience in
+                                    identifying web-based user
+                                    interactions along with designing &
+                                    implementing highly-responsive user
+                                    interface components by deploying
+                                    React concepts.</p>
                                 <div className="info">
                                     <div className="list">
                                         <label>Birthday:</label>
@@ -35,7 +40,7 @@ const About = () => {
 
                                     <div className="list">
                                         <label>Email:</label>
-                                        <a href="mailto:akmalreact@gmail.com">akmalreact@gmail.com</a>
+                                        <a href="mailto:akmalreact@gmail.com" rel='noreferrer' target='_blank'>akmalreact@gmail.com</a>
                                     </div>
 
                                     <div className="list">
@@ -45,7 +50,7 @@ const About = () => {
 
                                     <div className="list">
                                         <label>Phone:</label>
-                                        <a href="tel: +998999737445">+998 99 973 74 45 </a>
+                                        <a href="tel: +998999737445" >+998 99 973 74 45 </a>
                                     </div>
 
 
@@ -61,11 +66,11 @@ const About = () => {
                                 </div>
                                 {/*social links*/}
                                 <div className="social-links" >
-                                    <a href=""><FaWhatsapp/> </a>
-                                    <a href=""><FaInstagram/> </a>
-                                    <a href=""><FaTelegramPlane/> </a>
-                                    <a href=""><FaFacebookF/> </a>
-                                    <a href=""><FaYoutube/> </a>
+                                    <a href="https://wa.me/998993017445" rel='noreferrer' target='_blank'><FaWhatsapp/> </a>
+                                    <a href="https://www.instagram.com/akmal___m/" rel='noreferrer' target='_blank'><FaInstagram/> </a>
+                                    <a href="https://t.me/akmalreact" rel='noreferrer' target='_blank'><FaTelegramPlane/> </a>
+                                    <a href="https://www.facebook.com/akmalreact/" rel='noreferrer' target='_blank'><FaFacebookF/> </a>
+                                    <a href="https://www.linkedin.com/in/akmal-m-a20b4b1ab/" rel='noreferrer' target='_blank'><FaLinkedinIn/> </a>
                                 </div>
                             </div>
                         </div>

@@ -1,10 +1,12 @@
-.parallax h1 {
+.scroll-text h1 {
     font-size: 130px;
-    color: rgba(156, 205, 98, .4);
+    color: #bbb;
+    margin-top: 10vh;
+    text-align: center;
 }
 
 @media (max-width: 650px) {
-    .parallax h1 {
+    .scroll-text h1 {
         display: none;
     }
 }

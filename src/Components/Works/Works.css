@@ -4,9 +4,13 @@
 }
 .works h1 {
     margin: 0 auto;
-    color: #9ccd62;
+    color: #838383;
     font-size: 60px;
     text-align: center;
+}
+
+.works h1 span {
+    color: #9ccd62;
 }
 
 .works  .works-header {

@@ -8,8 +8,9 @@ import React, {useEffect} from "react";
 import Aos from "aos";
 import Works from "./Components/Works/Works";
 import TextAboutMe from "./Components/Text/TextAboutMe";
-import TextMySkills from "./Components/Text/TextMySkills";
 import Service from "./Components/Service/Service";
+import Footer from "./Components/Footer/Footer";
+import TextMySkills from "./Components/Text/TextMySkills";
 
 const App = () => {
 
@@ -28,6 +29,7 @@ const App = () => {
             <TextMySkills/>
             <Skills/>
             <Service/>
+            <Footer/>
         </div>
     );
 }

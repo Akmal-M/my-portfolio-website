@@ -1,11 +1,9 @@
 .home {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 95vh;
+    grid-template-rows: 90vh;
     align-items: center;
     justify-content: center;
-    border-radius: 7px;
-    margin: 15px;
     background-color: #fff;
 }
 
@@ -14,6 +12,7 @@
 .home > .content-section {
     display: flex;
     justify-content: center;
+    /*margin-top: 10vh;*/
 
 }
 
@@ -26,7 +25,7 @@
 }
 
 .home > .content-section > .home-content > .block > h6 {
-    color: #3c3d42;
+    color: #757575;
     font-size: 30px;
     font-weight: 500;
     margin: 0;
@@ -34,7 +33,7 @@
 }
 
 .home > .content-section > .home-content > .block > h1 {
-    color: #3c3d42;
+    color: #757575;
     font-size: 75px;
     font-weight: 600;
     margin: 0;
@@ -42,7 +41,7 @@
 }
 
 .home > .content-section > .home-content > .block > .typical {
-    color: #3c3d42;
+    color: #757575;
     font-size: 25px;
     font-weight: 500;
     margin: 0;
@@ -79,6 +78,7 @@
     display: flex;
     justify-content: center;
     position: relative;
+    /*margin-top: 10vh;*/
 }
 
 .home > .person-section > img {
@@ -132,7 +132,7 @@
         display: grid;
         grid-template-areas: 'person' 'content';
         grid-template-columns: 1fr;
-        grid-template-rows: 49vh 47vh;
+        grid-template-rows: 49vh 49vh;
     }
 
     /*CONTENT SECTION*/

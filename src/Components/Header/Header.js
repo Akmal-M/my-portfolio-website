@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import './Header.css';
 import {Link} from "react-scroll";
 import 'aos/dist/aos.css';
@@ -7,11 +7,11 @@ const Header = () => {
 
     return (
         <>
-            <header className='nav-header' data-aos="fade-down">
+            <header className='nav-header' data-aos="fade-down" id='home'>
                 <div className="header-container">
                     <div className="row">
                         <div className="brand-name">
-                            <Link to="/">Akmal</Link>
+                            <Link to="/">Portfolio</Link>
                         </div>
                         <div className="navbar">
                             <ul>

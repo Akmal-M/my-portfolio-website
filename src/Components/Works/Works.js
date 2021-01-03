@@ -24,8 +24,8 @@ const Works = () => {
 
 
     return (
-        <div className='works' id='portfolio'>
-            <h1>MY WORKS</h1>
+        <div className='works' id='portfolio' >
+            <h1 >MY <span> WORKS</span></h1>
             <div className='works-header'>
                 <NavLink  exact={true} to="/" activeClassName="active"  active={filter === "all"} onClick={() => {
                     setFilter("all");
@@ -53,7 +53,7 @@ const Works = () => {
                         <div key={item.name} className="hover01 column " data-aos='fade-up'>
                             <div>
                                 <div>
-                                    <img src={item.img}/>
+                                    <img src={item.img} alt=''/>
                                 </div>
                             </div>
                         </div>
