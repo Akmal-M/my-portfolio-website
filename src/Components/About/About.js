@@ -14,7 +14,7 @@ import {FaLinkedinIn} from "react-icons/all";
 
 const About = () => {
     return (
-        <section className="about-me">
+        <section className="about-me" >
             <div className="container">
                     <div className="about-content">
                         <div className="row">
@@ -27,7 +27,7 @@ const About = () => {
                                 <p> React Developer
                                     with hands-on experience in
                                     identifying web-based user
-                                    interactions along with designing &
+                                    interactions along with <br/> designing &
                                     implementing highly-responsive user
                                     interface components by deploying
                                     React concepts.</p>

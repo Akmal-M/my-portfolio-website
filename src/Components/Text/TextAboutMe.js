@@ -3,9 +3,12 @@ import './Text.css';
 
 const TextAboutMe = () => {
     return (
-            <div className="scroll-text"  id='about' data-aos="fade-down">
+        <div id='about'>
+            <div className="scroll-text"   data-aos="fade-up">
                 <h1>ABOUT ME</h1>
             </div>
+        </div>
+
     )
 }
 

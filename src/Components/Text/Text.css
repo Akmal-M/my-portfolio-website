@@ -1,11 +1,10 @@
 .scroll-text h1 {
-    font-size: 130px;
-    color: #bbb;
-    margin-top: 10vh;
+    font-size: 120px;
+    color: #ddd;
     text-align: center;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
     .scroll-text h1 {
         display: none;
     }

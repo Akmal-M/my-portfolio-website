@@ -1,24 +1,24 @@
 .language {
     display: flex;
-    position: absolute;
-    bottom: 0;
-    left: 0;
 }
 
 .language h3 {
-    margin: 1vh;
-    color: #757575;
+    margin-top: 1vh;
+    margin-right: 1vh;
+    color: #ccc;
     cursor: pointer;
+    font-size: 20px;
 }
 
 .language h3 .active {
     color: #9ccd62;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
     .language {
-        font-size: 10px;
-        bottom: 4px;
         display: block;
+    }
+    .language h3 {
+        font-size: 8px;
     }
 }

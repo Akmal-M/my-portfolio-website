@@ -2,6 +2,7 @@
     margin-top: 10vh;
     min-height: 100vh;
 }
+
 .works h1 {
     margin: 0 auto;
     color: #838383;
@@ -41,7 +42,7 @@
 
 .works .works-img  {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
     grid-row-gap: 7vh;
     margin: auto;
 }
@@ -76,9 +77,7 @@
 
 
 
-@media (max-width: 650px) {
-
-
+@media (max-width: 768px) {
     .works .works-img {
         grid-template-columns: 1fr;
     }
@@ -93,16 +92,11 @@
     }
 
     .works .works-img .column img {
-        width: 50vh;
+        width: 40vh;
     }
 
 }
 
-@media (max-width: 1025px) and (min-width: 649px) {
-    .works .works-img {
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
 
 

@@ -27,37 +27,35 @@ const Works = () => {
         <div className='works' id='portfolio' >
             <h1 >MY <span> WORKS</span></h1>
             <div className='works-header'>
-                <NavLink  exact={true} to="/" activeClassName="active"  active={filter === "all"} onClick={() => {
-                    setFilter("all");
+                <NavLink  exact={true} to="/"  onClick={() => {
+                    setFilter("all") ;
                 }}>
                     All
                 </NavLink>
-                <NavLink exact={true} to="commerce"  active={filter === "commerce"}
+                <NavLink to="commerce" exact={true}
                      onClick={() => setFilter("commerce")}>E-commerce
                 </NavLink>
-                <NavLink exact={true} to="catalogue"  active={filter === "catalogue"}
+                <NavLink to="catalogue" exact={true}
                      onClick={() => setFilter("catalogue")}>Catalogue
                 </NavLink>
-                <NavLink exact={true} to="restaurant" active={filter === "cafe&restaurant"}
+                <NavLink to="restaurant" exact={true}
                     onClick={() => setFilter("cafe&restaurant")}>Cafe & Restaurant
                 </NavLink>
-                <NavLink exact={true} to="education"  active={filter === "education"}
+                <NavLink to="education" exact={true}
                      onClick={() => setFilter("education")}>Education
                 </NavLink>
             </div>
 
             <div className='works-img'>
                 {projects.map(item =>
-                    item.filtered === true ?
-
+                item.filtered === true ?
                         <div key={item.name} className="hover01 column " data-aos='fade-up'>
                             <div>
                                 <div>
-                                    <img src={item.img} alt=''/>
+                                    <img src={item.img} alt='portfolio websites'/>
                                 </div>
                             </div>
                         </div>
-
                         : ""
                 )}
             </div>

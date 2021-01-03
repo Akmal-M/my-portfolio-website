@@ -58,22 +58,17 @@ header .navbar ul li a:hover {
     transition: .7s;
 }
 
-@media (max-width: 1100px) {
-
-}
 
 
-/*HAMBURGER MENU*/
 
 @media screen and (max-width: 768px) {
 
 
     header .brand-name a{
-        display: none;
+
     }
     header .navbar {
         margin: 0 auto;
-        /*white-space: nowrap;*/
     }
     header .navbar ul li a {
         font-size: 17px;

@@ -5,29 +5,28 @@ import pattern from '../../assets/img/pattern.png';
 import 'aos/dist/aos.css';
 import Typical from 'react-typical';
 import {Link} from "react-scroll";
-import Language from "../Language/Language";
 
 const Home = () => {
 
     return (
         <div className='home'>
             <section className="content-section" data-aos="zoom-in">
-                        <div className="home-content">
-                            <div className="block">
-                                <h6>Hello, My name is</h6>
-                                <h1>Akmal M</h1>
-                                <Typical
-                                    steps={['Web Developer', 3000,
-                                        'UI & UX Designer', 3000]}
-                                    loop={Infinity}
-                                    wrapper="h2"
-                                    className='typical'/>
+                            <div className="home-content">
+                                <div className="block">
+                                    <h6>Hello, My name is</h6>
+                                    <h1>Akmal M</h1>
+                                    <Typical
+                                        steps={['Web Developer', 3000,
+                                            'UI & UX Designer', 3000]}
+                                        loop={Infinity}
+                                        wrapper="h2"
+                                        className='typical'/>
 
-                                <div className="cv-btn">
-                                    <a href="https://drive.google.com/file/d/17Oxlryvj6tQAjwacHkatOeFS0y6T_LEx/view?usp=sharing" rel='noreferrer' target='_blank'>Download CV</a>
+                                    <div className="cv-btn">
+                                        <a href="https://drive.google.com/file/d/17Oxlryvj6tQAjwacHkatOeFS0y6T_LEx/view?usp=sharing" rel='noreferrer' target='_blank'>Download CV</a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
             </section>
             <section className='person-section' data-aos="zoom-in">
                 <Link className="main-image-link" to='about' smooth={true} duration={1000} style={{cursor:'pointer'}}>
@@ -36,7 +35,6 @@ const Home = () => {
                 <img className="back-image" src={pattern}
                      alt='person'/>
             </section>
-            <Language/>
         </div>
     );
 };

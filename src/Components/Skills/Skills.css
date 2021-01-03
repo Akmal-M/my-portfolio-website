@@ -1,7 +1,7 @@
 .skills {
     padding: 10px 15px;
     background-color: #fff;
-    margin: 10vh;
+    margin: 7vh 7vh 13vh 7vh;
 }
 
 
@@ -9,7 +9,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 55vh;
-    grid-gap: 5vh;
+    grid-gap: 5vh 10vh;
 }
 
 
@@ -73,7 +73,7 @@
     top: -30px;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
     .skills {
         margin: 3vh 3vh 0 3vh;
     }

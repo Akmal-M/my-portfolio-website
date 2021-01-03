@@ -12,8 +12,11 @@ const Skills = () => {
                     <div className="skills-content" data-aos="fade-right">
                         <div className="row">
                             <div className="section-title">
-                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia facere esse itaque
-                                    accusantium quisquam fuga illo, tempora sapiente delectus rerum?</p>
+                                <p>Progressive web applications (PWAs) will replace some native mobile apps.
+                                    PWAs enable websites to load quickly and still
+                                    work offline. They recreate the in-app experience
+                                    within a browser and make things easier and cheaper
+                                    than building native applications for every device.</p>
                             </div>
                         </div>
                         <div className="row">

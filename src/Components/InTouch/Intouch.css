@@ -42,7 +42,7 @@
     color: #9ccd62;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
     .message-text {
         background-color: #9ccd62;
         padding: 20px 10px;
