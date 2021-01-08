@@ -17,7 +17,7 @@ const portfolio = [
     {
         id:'3',
         name: "Household appliances",
-        category: ["all", "catalog"],
+        category: ["all", "catalogue"],
         img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
         address: 'https://ak-householdapp.herokuapp.com'
     },
@@ -32,7 +32,7 @@ const portfolio = [
     {
         id:'5',
         name: "Furniture",
-        category: ["all", "catalog"],
+        category: ["all", "catalogue"],
         img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
         info: 'html, css, jquery',
         address: 'https://ak-furniture.herokuapp.com'
@@ -47,55 +47,6 @@ const portfolio = [
     },
 
 
-    {
-        id:'7',
-        name: "It is a relly cool webste",
-        category: ["all", "cafe&restaurant"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-    },
-    {
-        id:'8',
-        name: "Somethng mre",
-        category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-    },
-    {
-        id:'9',
-        name: "Somethig mre",
-        category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-    },
-    {
-        id:'10',
-        name: "It is areally cool websie",
-        category: ["all", "cafe&restaurant"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-    },
-    {
-        id:'11',
-        name: "Somethn moe",
-        category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-
-    },
-    {
-        id:'12',
-        name: "Somethig ore",
-        category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
-        info: 'html, css, react js, firebase ',
-        address: 'https://ak-.herokuapp.com'
-    }
 
 
 ];
