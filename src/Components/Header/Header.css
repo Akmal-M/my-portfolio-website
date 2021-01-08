@@ -4,10 +4,10 @@
     position: absolute;
 }
 
-header {
-    text-align: center;
-}
 
+.nav-header .language {
+    margin-left: 50vh;
+}
 
 
 .nav-header .header-container .row {
@@ -15,13 +15,8 @@ header {
     align-items: center;
 }
 
-header .brand-name a {
-    text-decoration: none;
-    font-size: 30px;
-    font-weight: 600;
-    color: #9ccd62;
-    text-transform: uppercase;
-}
+
+
 
 .home-li {
     font-size: 30px;
@@ -31,18 +26,13 @@ header .brand-name a {
 }
 
 
-header.navbar ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
 
-header .navbar ul li {
+.navbar ul li {
     display: inline-block;
     margin-left: 20px;
 }
 
-header .navbar ul li a {
+.navbar ul li a {
     font-size: 27px;
     text-decoration: none;
     line-height: 72px;
@@ -53,10 +43,11 @@ header .navbar ul li a {
     cursor: pointer;
 }
 
-header .navbar ul li a:hover {
+.navbar ul li a:hover {
     color: #9ccd62;
     transition: .7s;
 }
+
 
 @media screen and (min-width: 785px) {
     .hamburger, .nav-links {

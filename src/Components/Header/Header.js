@@ -8,7 +8,6 @@ import Language from "../Language/Language";
 const Header = () => {
     const {t} = useTranslation();
 
-
     return (
             <header className='nav-header'  id='home'>
                 <div className="header-container">
@@ -22,7 +21,9 @@ const Header = () => {
                                 <li><Link to="services" smooth={true} duration={1000}>{t('Navbar.5')}</Link></li>
                             </ul>
                         </div>
-                        <Language className='language'/>
+                        <div className='nav-language'>
+                            <Language className='language'/>
+                        </div>
                     </div>
                 </div>
             </header>
