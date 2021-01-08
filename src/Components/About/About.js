@@ -9,10 +9,13 @@ import {
     FaWhatsapp,
 } from "react-icons/fa";
 import {FaLinkedinIn} from "react-icons/all";
+import {useTranslation} from "react-i18next";
 
 
 
 const About = () => {
+    const { t } = useTranslation();
+
     return (
         <section className="about-me" >
             <div className="container">
@@ -22,46 +25,40 @@ const About = () => {
                                 <img src={heroSecond} alt="about-me" />
                             </div>
                             <div className="text" data-aos="fade-left">
-                                <h4>I'm Akmal M</h4>
-                                <h6><span>Web</span>  Developer & <span>UI&UX</span> Designer.</h6>
-                                <p> React Developer
-                                    with hands-on experience in
-                                    identifying web-based user
-                                    interactions along with <br/> designing &
-                                    implementing highly-responsive user
-                                    interface components by deploying
-                                    React concepts.</p>
+                                <h4>{t('About.1')}</h4>
+                                <h6> <span>{t('About.2')}</span>  {t('About.3')} <span>{t('About.4')}</span> {t('About.5')}</h6>
+                                <p>{t('About.6')}</p>
                                 <div className="info">
                                     <div className="list">
-                                        <label>Birthday:</label>
-                                        <p>6th Feb 1994</p>
+                                        <label>{t('About.7')}</label>
+                                        <p>{t('About.8')}</p>
                                     </div>
 
 
                                     <div className="list">
-                                        <label>Email:</label>
+                                        <label>{t('About.9')}</label>
                                         <a href="mailto:akmalreact@gmail.com" rel='noreferrer' target='_blank'>akmalreact@gmail.com</a>
                                     </div>
 
                                     <div className="list">
-                                        <label>Age:</label>
-                                        <p>27 Yr</p>
+                                        <label>{t('About.10')}</label>
+                                        <p>{t('About.11')}</p>
                                     </div>
 
                                     <div className="list">
-                                        <label>Phone:</label>
+                                        <label>{t('About.12')}</label>
                                         <a href="tel: +998999737445" >+998 99 973 74 45 </a>
                                     </div>
 
 
                                     <div className="list">
-                                        <label>Freelance:</label>
-                                        <p>Available</p>
+                                        <label>{t('About.13')}</label>
+                                        <p>{t('About.14')}</p>
                                     </div>
 
                                     <div className="list">
-                                        <label>Info</label>
-                                        <p>I'm looking for a creative team.</p>
+                                        <label>{t('About.15')}</label>
+                                        <p>{t('About.16')}</p>
                                     </div>
                                 </div>
                                 {/*social links*/}

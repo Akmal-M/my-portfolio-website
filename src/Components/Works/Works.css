@@ -16,7 +16,7 @@
 
 .works  .works-header {
     display: grid;
-    grid-template-columns: 1fr 2fr 2fr 2fr 2fr;
+    grid-template-columns: 1fr 2fr 2fr 3fr 2fr;
     text-align: center;
     margin: 3vh auto 7vh auto;
     max-width: 700px;
@@ -26,7 +26,7 @@
 }
 
 .works .works-header a {
-    font-size: 20px;
+    font-size: 2vw;
     cursor: pointer;
     padding: 30px 0;
     white-space: nowrap;

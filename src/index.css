@@ -1,24 +1,50 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  overflow-y: -moz-hidden-unscrollable;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
 }
 
 body {
-  margin: 0;
-  /*font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',*/
-  /*  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',*/
-  /*  sans-serif;*/
-  font-family: 'Open Sans', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+    /*font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',*/
+    /*  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',*/
+    /*  sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 
+}
+/*style={{overflowX: 'hidden'}}*/
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    overflow-x: hidden;
 }
 
 
+.loader {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
 
+.spinner {
+    position: absolute;
+    color: #9ccd62;
+    margin: auto;
+    font-size: 150px;
+    animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

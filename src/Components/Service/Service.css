@@ -1,13 +1,12 @@
 .service {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
     text-align: center;
     margin: 5vh;
     height: fit-content;
 }
 
 .service .service-card {
-    padding: 50px;
     box-shadow:
             0 2.8px 2.2px rgba(0, 0, 0, 0.034),
             0 6.7px 5.3px rgba(0, 0, 0, 0.048),
@@ -20,14 +19,14 @@
 
 .service .service-card .ico {
     font-size: 65px;
-    margin: 10px;
+    margin: 50px 0 auto auto;
     color: #9ccd62;
 }
 
 .service .service-card h1 {
-    margin: 10px;
     white-space: nowrap;
     color: #757575;
+    margin: 2vh 0 auto;
 }
 
 .service .service-card h1 span {
@@ -37,6 +36,7 @@
 .service .service-card p {
     color: #757575;
     font-size: 20px;
+    padding: 20px 40px 40px 40px;
 }
 
 @media (max-width: 768px) {
@@ -62,14 +62,12 @@
     }
 
     .service .service-card h1 {
-        margin: 5px;
-        white-space: nowrap;
-
+        margin: 5px auto;
+        font-size: 7vw;
     }
 
     .service .service-card p {
         font-size: 15px;
-        margin: 30px 5px;
     }
 
 }

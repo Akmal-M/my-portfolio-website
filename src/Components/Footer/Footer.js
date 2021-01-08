@@ -2,18 +2,21 @@ import React from 'react';
 import {Link} from "react-scroll";
 import './Footer.css';
 import {FaFacebookF, FaInstagram, FaTelegramPlane, FaWhatsapp, FaLinkedinIn} from "react-icons/fa";
+import {useTranslation} from "react-i18next";
 
 const Footer = () => {
+    const { t } = useTranslation();
+
     return (
-        <div className='footer' data-aos="zoom-in">
+        <div className='footer' data-aos="fade-up">
             <div>
                 <div className="footer-navbar">
                     <ul>
-                        <li><Link to="home" smooth={true} duration={1000}>Home</Link></li>
-                        <li><Link to="about" smooth={true} duration={1000}>About</Link></li>
-                        <li><Link to="portfolio" smooth={true} duration={1000}>Portfolio</Link></li>
-                        <li><Link to="skills" smooth={true} duration={1000}>Skills</Link></li>
-                        <li><Link to="services" smooth={true} duration={1000}>Services</Link></li>
+                        <li><Link to="home" smooth={true} duration={1000}>{t('Navbar.1')}</Link></li>
+                        <li><Link to="about" smooth={true} duration={1000}>{t('Navbar.2')}</Link></li>
+                        <li><Link to="portfolio" smooth={true} duration={1000}>{t('Navbar.3')}</Link></li>
+                        <li><Link to="skills" smooth={true} duration={1000}>{t('Navbar.4')}</Link></li>
+                        <li><Link to="services" smooth={true} duration={1000}>{t('Navbar.5')}</Link></li>
                     </ul>
                 </div>
             </div>

@@ -1,17 +1,16 @@
 /*Home*/
-header {
-text-align: center;
-}
-
-.header-container {
+.nav-header {
+    z-index:333;
     position: absolute;
-    left: 0;
-    right: 0;
-    padding: 15px 40px 15px 40px;
-    z-index: 5;
 }
 
-header .row {
+header {
+    text-align: center;
+}
+
+
+
+.nav-header .header-container .row {
     justify-content: space-between;
     align-items: center;
 }
@@ -42,6 +41,7 @@ header .navbar ul li {
     display: inline-block;
     margin-left: 20px;
 }
+
 header .navbar ul li a {
     font-size: 27px;
     text-decoration: none;
@@ -58,29 +58,17 @@ header .navbar ul li a:hover {
     transition: .7s;
 }
 
-
-
-
-@media screen and (max-width: 768px) {
-
-
-    header .brand-name a{
-
-    }
-    header .navbar {
-        margin: 0 auto;
-    }
-    header .navbar ul li a {
-        font-size: 17px;
-        line-height: normal;
-        white-space: nowrap;
-    }
-    header .navbar ul li:first-child {
+@media screen and (min-width: 785px) {
+    .hamburger, .nav-links {
         display: none;
     }
-    header .navbar ul li {
-        margin: 0 5px;
+
+}
+@media screen and (max-width: 768px) {
+    .nav-header .language {
+        display: none;
     }
 }
+
 
 

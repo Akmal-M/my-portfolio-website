@@ -1,0 +1,68 @@
+{
+  "Navbar": {
+    "1": "Bosh sahifa",
+    "2": "Info",
+    "3": "Portfolio",
+    "4": "Ko'rsatgich",
+    "5": "Xizmat"
+  },
+  "Home": {
+    "1": "Salom, Mening ismim",
+    "2": "Veb Dasturchi",
+    "3": "UI & UX Dizayner",
+    "4": "REZYUMENI KO'RISH"
+  },
+  "Text": {
+    "1": "MEN HAQIMDA",
+    "2": "KO'RSATGICHLAR"
+  },
+  "About": {
+    "1": "Men Akmal M ,",
+    "2": "Veb",
+    "3": " Dasturchi &",
+    "4": " UI & UX",
+    "5": " Dizayner.",
+    "6": "Veb dasturlashda foydalanuvchilar uchun qulayliklarni aniqlash hamda\nReact orqali yuqori sifatli foydalanishga qulay interfeys tarkibiy qismlarini loyihalashtirish va amalga oshirishda amaliy tajribaga egaman.",
+    "7": "Tug'ilgan kun:",
+    "8": "6 Fev 1994",
+    "9": "El. manzil:",
+    "10": "Yosh:",
+    "11": "27 Yosh",
+    "12": "Telefon:",
+    "13": "Frilans:",
+    "14": "Mumkin",
+    "15": "Ma'lumot",
+    "16": "Kreativ guruh bilan ishlashdan mamnun bo'lardim."
+  },
+  "InTouch": {
+    "1": "Har xil turdagi veb-ishlab chiqish va ajoyib dizayn tarafdoriman.",
+    "2": "Taklif kiritish"
+  },
+  "MyWorks": {
+    "1": "Mening",
+    "2": "Proyektlarim",
+    "3": "Barchasi",
+    "4": "Savdo",
+    "5": "Katalog",
+    "6": "Kafe & Restoran",
+    "7": "Ta'lim"
+  },
+  "Skills": {
+    "1": "Progressiv veb-ilovalar (PWA) yaqin kelajakda ko'pgina mobil ilovalarning o'rnini bosadi.PWA veb-saytlarni tezda yuklash imkonini beradi va oflayn rejimda ishlaydi. Ular brauzer ichida ilova va funksiylarni yuklaydi va har bir qurilma uchun alohida dasturlarni yaratishdan ko'ra ishlarni osonroq va arzonroq bajarish imkonini beradi."
+  },
+  "Services": {
+    "1": "Individual ",
+    "2": "dizayn",
+    "3": "Agar biz zerikarli bir xillikni chetga surib fikr yuritadigan bo'lsak, unutilmas va noyob veb-saytlarga hamda qulayliklariga erishishimiz mumkin.",
+    "4": "Tez ",
+    "5": "Yuklanish",
+    "6": "React Virtual DOM bilan ishlashini hisobga olgan holda shuni aytish mumkinki, ilovangiz tezlik va barqaror ishlashni talab qilganda React juda yaxshi qurilma va asos bolib xizmat qiladi.",
+    "7": "Butunlay ",
+    "8": "moslashuv",
+    "9": "Smartfonlar trafigi umumiy Internet-trafigining yarmidan ko'pini tashkil qiladi va shunga ko'ra veb-saytlarni moslashuvchan qilish muhim ahamiyatga ega hisoblanadi."
+  }
+}
+
+
+
+

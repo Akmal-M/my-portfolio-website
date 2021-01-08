@@ -1,0 +1,85 @@
+{
+  "Navbar": {
+    "1": "Home",
+    "2": "About",
+    "3": "Portfolio",
+    "4": "Skills",
+    "5": "Services"
+  },
+  "Home": {
+    "1": "Hello, My name is",
+    "2": "Web Developer",
+    "3": "UI & UX Designer",
+    "4": "DOWNLOAD CV"
+  },
+  "Text": {
+    "1": "ABOUT ME",
+    "2": "MY SKILLS"
+  },
+  "About": {
+    "1": "I'm Akmal M ,",
+    "2": "Web" ,
+    "3":  " Developer &" ,
+    "4": " UI&UX",
+    "5": " Designer.",
+    "6": "React Developer with hands-on experience in identifying web-based user interactions along with\ndesigning & implementing highly-responsive user interface components by deploying React concepts.",
+    "7": "Birthday:",
+    "8": "6th Feb 1994",
+    "9": "Email:",
+    "10": "Age:",
+    "11": "27 Yr",
+    "12": "Phone:",
+    "13": "Freelance:",
+    "14": "Available",
+    "15": "Info",
+    "16": "I'm looking for a creative team."
+  },
+  "InTouch": {
+    "1": "I'm extremely passionate about web development and design in all it's forms.",
+    "2": "GET IN TOUCH"
+  },
+  "MyWorks": {
+    "1": "My ",
+    "2": "Works",
+    "3": "All",
+    "4": "E-commerce",
+    "5": "Catalogue",
+    "6": "Cafe & Restaurant",
+    "7": "Education"
+  },
+  "Skills": {
+    "1": "Progressive web applications (PWAs) will replace some native mobile apps. PWAs enable websites to load quickly and still work offline. They recreate the in-app experience within a browser and make things easier and cheaper than building native applications for every device."
+  },
+  "Services": {
+    "1": "Unique ",
+    "2": "design",
+    "3": "If we think outside the box, we can come up with the most creative and the most unique websites that won’t be forgotten in a hurry, especially in this sea of consistency",
+    "4": "Fast ",
+    "5": "loading",
+    "6": "Designed with performance in mind and support for the virtual DOM, React is an excellent framework when you require speed and performance in your application.",
+    "7": "Fully ",
+    "8": "responsive",
+    "9": "Responsive web design has become more important as the amount of mobile traffic has come to account for more than half of total internet traffic."
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

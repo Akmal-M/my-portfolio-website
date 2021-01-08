@@ -1,6 +1,6 @@
 .App {
-  max-width: 1250px;
-  margin: auto;
+    max-width: 1250px;
+    margin: auto;
 }
 
 /*all*/
@@ -8,51 +8,51 @@
 .container {
 
 
-  margin: auto;
+    margin: auto;
 }
 
 .row {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .section-title {
-  flex: 0 0 100%;
-  max-width: 100%;
-  margin-bottom: 40px;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 40px;
 }
 
 .section-title h1 {
-  display: inline-block;
-  font-size: 35px;
-  text-transform: uppercase;
-  font-weight: 700;
-  color: #3c3d42;
-  margin: 0 0 10px;
-  position: relative;
+    display: inline-block;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #3c3d42;
+    margin: 0 0 10px;
+    position: relative;
 
 }
 
 .section-title h1::before {
-  content: '';
-  left: 0;
-  position: absolute;
-  height: 2px;
-  right: 30%;
-  background-color: #9ccd62;
-  bottom: 0;
+    content: '';
+    left: 0;
+    position: absolute;
+    height: 2px;
+    right: 30%;
+    background-color: #9ccd62;
+    bottom: 0;
 
 }
 
 .text-center {
-  text-align: center!important;
-}
-.text-left {
-  text-align: left!important;
-}
-.text-right {
-  text-align: right!important;
+    text-align: center !important;
 }
 
-@media (max-width: 650px) {
+.text-left {
+    text-align: left !important;
 }
+
+.text-right {
+    text-align: right !important;
+}
+

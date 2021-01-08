@@ -5,24 +5,27 @@ import {
      GiDiamondHard,
     IoRocketOutline,
 } from "react-icons/all";
+import {useTranslation} from "react-i18next";
 
 const Service = () => {
+    const { t } = useTranslation();
+
     return (
         <div className='service' id='services'>
             <div className='service-card' data-aos="fade-left">
                 <GiDiamondHard className='ico'/>
-                <h1>Unique <span>design</span></h1>
-                <p>If we think outside the box, we can come up with the most creative and the most unique websites that won’t be forgotten in a hurry, especially in this sea of consistency.</p>
+                <h1>{t('Services.1')} <span>{t('Services.2')}</span></h1>
+                <p>{t('Services.3')}</p>
             </div>
             <div className='service-card' data-aos="fade-up">
                 <IoRocketOutline className='ico'/>
-                <h1>Fast <span>loading</span></h1>
-                <p>Designed with performance in mind and support for the virtual DOM, React is an excellent framework when you require speed and performance in your application.</p>
+                <h1>{t('Services.4')} <span>{t('Services.5')}</span></h1>
+                <p>{t('Services.6')}</p>
             </div>
             <div className='service-card' data-aos="fade-right">
                 <AiOutlineFullscreen className='ico'/>
-                <h1>Fully <span>responsive</span></h1>
-                <p>Responsive web design has become more important as the amount of mobile traffic has come to account for more than half of total internet traffic.</p>
+                <h1>{t('Services.7')} <span>{t('Services.8')}</span></h1>
+                <p>{t('Services.9')}</p>
             </div>
         </div>
     );
