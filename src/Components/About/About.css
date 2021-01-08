@@ -113,6 +113,7 @@ section .about-me {
     .about-me > .container > .about-content > .row {
         display: grid;
         grid-template-columns: 1fr;
+        margin-top: 10vh;
     }
 
     .about-me > .container > .about-content > .row > .about-img {
