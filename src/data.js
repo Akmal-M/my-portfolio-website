@@ -1,31 +1,38 @@
+import one from './assets/screen/1.png';
+import two from './assets/screen/2.png';
+import three from './assets/screen/3.png';
+import four from './assets/screen/4.png';
+import five from './assets/screen/5.png';
+import six from './assets/screen/6.png';
+
 const portfolio = [
     {
         id:'1',
         name: "Clothing app",
         category: ["all", "e-commerce"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: one,
         info: 'html, css, react js, redux, firebase, stripe',
         address: 'https://ak-clothing.herokuapp.com'
     },
     {
         id:'2',
-        name: "Home appliances",
+        name: "Restaurant",
         category: ["all", "cafe&restaurant"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: two,
         address: 'https://ak-restaurant.herokuapp.com'
     },
     {
         id:'3',
         name: "Household appliances",
         category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: three,
         address: 'https://ak-householdapp.herokuapp.com'
     },
     {
         id:'4',
         name: "Education",
         category: ["all", "education"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: four,
         info: 'html, css, react js, firebase',
         address: 'https://ak-repetitor.herokuapp.com'
     },
@@ -33,7 +40,7 @@ const portfolio = [
         id:'5',
         name: "Furniture",
         category: ["all", "catalogue"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: five,
         info: 'html, css, jquery',
         address: 'https://ak-furniture.herokuapp.com'
     },
@@ -41,7 +48,7 @@ const portfolio = [
         id:'6',
         name: "Amazing clone",
         category: ["all", "e-commerce"],
-        img: "https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg",
+        img: six,
         info: 'html, css, react js, firebase ',
         address: 'https://amazing-app-3e7d9.web.app'
     },
