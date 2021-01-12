@@ -25,7 +25,7 @@ const Home = () => {
                                         className='typical'/>
 
                                     <div className="cv-btn">
-                                        <a href="https://drive.google.com/file/d/17Oxlryvj6tQAjwacHkatOeFS0y6T_LEx/view?usp=sharing" rel='noreferrer' target='_blank'>{t('Home.4')}</a>
+                                        <a href="https://drive.google.com/file/d/1Azr4n1ZRoG8S9cZVLV9-jlolTLyL6WW9/view?usp=sharing" rel='noreferrer' target='_blank'>{t('Home.4')}</a>
                                     </div>
                                 </div>
                             </div>
