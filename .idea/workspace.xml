@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +253,7 @@
       <workItem from="1610438105111" duration="703000" />
       <workItem from="1610438849340" duration="1627000" />
       <workItem from="1610440659816" duration="1929000" />
-      <workItem from="1610442627375" duration="331000" />
+      <workItem from="1610442627375" duration="1423000" />
     </task>
     <servers />
   </component>
@@ -286,5 +288,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="16" y="35" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1610073766967" />
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1610443558655">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1610443558655" />
   </component>
 </project>
