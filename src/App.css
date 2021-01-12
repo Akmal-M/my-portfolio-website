@@ -1,13 +1,12 @@
 .App {
     max-width: 1250px;
     margin: auto;
+    overflow-x: hidden;
 }
 
 /*all*/
 
 .container {
-
-
     margin: auto;
 }
 
