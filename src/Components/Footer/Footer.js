@@ -8,7 +8,7 @@ const Footer = () => {
     const { t } = useTranslation();
 
     return (
-        <div className='footer' data-aos="fade-down">
+        <div className='footer'>
             <div>
                 <div className="footer-navbar">
                     <ul>
