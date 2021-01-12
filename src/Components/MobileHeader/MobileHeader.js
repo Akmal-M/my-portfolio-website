@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {GiHamburgerMenu} from "react-icons/all";
+import {GiHamburgerMenu} from "react-icons/gi";
 import {Link} from "react-scroll";
 import Language from "../Language/Language";
 import {useTranslation} from "react-i18next";
