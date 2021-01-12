@@ -7,11 +7,9 @@ import {
     FaFacebookF,
     FaInstagram,
     FaWhatsapp,
+    FaLinkedinIn,
 } from "react-icons/fa";
-import {FaLinkedinIn} from "react-icons/all";
 import {useTranslation} from "react-i18next";
-
-
 
 const About = () => {
     const { t } = useTranslation();

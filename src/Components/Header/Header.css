@@ -6,13 +6,16 @@
 
 
 .nav-header .language {
-    margin-left: 50vh;
+
 }
 
 
 .nav-header .header-container .row {
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 8fr 1fr;
+    width: 100%;
     align-items: center;
+   margin: 0 auto;
 }
 
 
@@ -49,7 +52,7 @@
 }
 
 
-@media screen and (min-width: 785px) {
+@media screen and (min-width: 768px) {
     .hamburger, .nav-links {
         display: none;
     }

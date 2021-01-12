@@ -19,7 +19,7 @@
     grid-template-columns: 1fr 2fr 2fr 3fr 2fr;
     text-align: center;
     margin: 3vh auto 7vh auto;
-    max-width: 700px;
+    max-width: 900px;
 }
 .works .works-header:first-child {
     padding: 0;
@@ -50,7 +50,7 @@
     margin: auto;
 }
 
-.works .works-img .column img:hover {
+.works .works-img .column img {
     box-shadow:
             0 2.8px 2.2px rgba(0, 0, 0, 0.034),
             0 6.7px 5.3px rgba(0, 0, 0, 0.048),

@@ -14,7 +14,7 @@ const Intouch = () => {
                         <h2>{t('InTouch.1')}</h2>
                     </div>
                     <div className="button">
-                        <a href="http://akmalreact@gmail.com" rel='noreferrer' target='_blank'>{t('InTouch.2')}</a>
+                        <a href="https://wa.me/998993017445" rel='noreferrer' target='_blank'>{t('InTouch.2')}</a>
                     </div>
                 </div>
             </div>

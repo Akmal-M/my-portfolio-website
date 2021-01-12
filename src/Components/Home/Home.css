@@ -102,7 +102,7 @@
 }
 
 .person-section:hover .back-image {
-    bottom: 50px;
+    /*bottom: 50px;*/
     z-index: 0;
 }
 

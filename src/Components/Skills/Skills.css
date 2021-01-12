@@ -20,9 +20,9 @@
     display: block;
 }
 
-.row .img {
-    height: 200px;
-}
+/*.row .img {*/
+/*    max-height: 200px;*/
+/*}*/
 
 /*TEXT SIDE*/
 
@@ -91,7 +91,7 @@
         display: grid;
         grid-template-areas:  'content' 'image';
         grid-template-columns: 1fr;
-        
+
     }
 
     .skills .container .row .img {
