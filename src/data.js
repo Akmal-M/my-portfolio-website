@@ -51,9 +51,5 @@ const portfolio = [
         img: six,
         info: 'html, css, react js, firebase ',
         address: 'https://ak-amazing.app'    },
-
-
-
-
 ];
 export default portfolio;
