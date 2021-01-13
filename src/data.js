@@ -50,8 +50,7 @@ const portfolio = [
         category: ["all", "e-commerce"],
         img: six,
         info: 'html, css, react js, firebase ',
-        address: 'https://amazing-app-3e7d9.web.app'
-    },
+        address: 'https://.app'    },
 
 
 
