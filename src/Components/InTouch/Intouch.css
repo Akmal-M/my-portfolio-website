@@ -1,5 +1,5 @@
 .message-text {
-    background-color: #9ccd62;
+    background-color: #333;
     padding: 40px 15px;
 }
 
@@ -39,12 +39,12 @@
 
 .message-text .button a:hover {
     background-color: #fff;
-    color: #9ccd62;
+    color: #333;
 }
 
 @media (max-width: 768px) {
     .message-text {
-        background-color: #9ccd62;
+        background-color: #333;
         padding: 20px 10px;
     }
 

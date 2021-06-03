@@ -16,8 +16,10 @@
 /*IMAGE SIDE*/
 
 .skills .img img {
-    width: 100%;
     display: block;
+    max-height: 500px;
+    max-width: 600px;
+    margin-left: 100px;
 }
 
 /*.row .img {*/
@@ -57,7 +59,7 @@
 }
 
 .skills .skills-content .skill-box .skill-bar .skill-bar-in {
-    background-color: #9ccd62;
+    background-color: #333;
     position: absolute;
     left: 0;
     top: 0;
@@ -100,7 +102,10 @@
         margin: 15vh auto 3vh;
         height: 45vh;
     }
-
+    .skills .img img {
+        width: 100%;
+        display: block;
+    }
     .skills .skills-content .skill-box .skill-bar {
         height: 10px;
     }

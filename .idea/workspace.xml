@@ -11,7 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MobileHeader/MobileHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MobileHeader/MobileHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Service/Service.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Service/Service.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/MobileHeader" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -54,6 +63,23 @@
       <recent name="C:\Users\My PC\Desktop\portfolio\src" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -260,6 +286,7 @@
       <workItem from="1610520434509" duration="33000" />
       <workItem from="1610521164350" duration="6000" />
       <workItem from="1610523445558" duration="542000" />
+      <workItem from="1622757061119" duration="1478000" />
     </task>
     <servers />
   </component>
@@ -280,23 +307,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="335" y="276" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609710798401">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="335" y="276" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1609710798401" />
-    <state x="367" y="189" key="FileChooserDialogImpl" timestamp="1609197312119">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="367" y="189" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1609197312119" />
-    <state x="16" y="35" key="SettingsEditor" timestamp="1610073766967">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="16" y="35" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1610073766967" />
-    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1610443558655">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1610443558655" />
   </component>
 </project>

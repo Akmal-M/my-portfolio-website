@@ -10,7 +10,7 @@
 
     .line {
         font-size: 40px;
-        color: #9ccd62;
+        color: #333;
         z-index: 2;
         margin-top: 7vh;
     }
@@ -32,7 +32,7 @@
         height: 100vh;
         position: absolute;
         /*background: #5b78c7;*/
-        background: #9ccd62;
+        background: #333;
         width: 100%;
         flex-direction: column;
         clip-path: circle(200px at 90% -10%);
