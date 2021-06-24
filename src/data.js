@@ -1,4 +1,4 @@
-import one from './assets/screen/1.png';
+import one from './assets/screen/11.png';
 import two from './assets/screen/2.png';
 import three from './assets/screen/3.png';
 import four from './assets/screen/4.png';
@@ -12,7 +12,7 @@ const portfolio = [
         category: ["all", "e-commerce"],
         img: one,
         info: 'html, css, react js, redux, firebase, stripe',
-        address: 'https://ak-clothing.herokuapp.com'
+        address: 'https://innoveder.com'
     },
     {
         id:'2',
@@ -26,7 +26,7 @@ const portfolio = [
         name: "Household appliances",
         category: ["all", "catalogue"],
         img: three,
-        address: 'https://ak-householdapp.herokuapp.com'
+        address: 'https://ak-house.herokuapp.com'
     },
     {
         id:'4',

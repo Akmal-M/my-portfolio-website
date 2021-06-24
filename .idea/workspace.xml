@@ -11,15 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/screen/11.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/InTouch/Intouch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MobileHeader/MobileHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MobileHeader/MobileHeader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Service/Service.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Service/Service.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Works/Works.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Works/Works.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/screen/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/screen/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/MobileHeader" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/screen" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -53,11 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\my-portfolio-website\src\assets\screen" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\MobileHeader" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\BackgroundSvg" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Text" />
       <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Language" />
-      <recent name="C:\Users\My PC\Desktop\portfolio\src\Components\Footer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\My PC\Desktop\portfolio\src" />
@@ -286,7 +285,9 @@
       <workItem from="1610520434509" duration="33000" />
       <workItem from="1610521164350" duration="6000" />
       <workItem from="1610523445558" duration="542000" />
-      <workItem from="1622757061119" duration="1478000" />
+      <workItem from="1622757061119" duration="2560000" />
+      <workItem from="1622788169003" duration="4000" />
+      <workItem from="1624522852395" duration="2553000" />
     </task>
     <servers />
   </component>
