@@ -12,7 +12,7 @@ const portfolio = [
         category: ["all", "e-commerce"],
         img: one,
         info: 'html, css, react js, redux, firebase, stripe',
-        address: 'https://innoveder.com'
+        address: 'https://www.innoveder.com'
     },
     {
         id:'2',
@@ -32,7 +32,7 @@ const portfolio = [
         id:'4',
         name: "Education",
         category: ["all", "education"],
-        img: four,
+        img: four, 
         info: 'html, css, react js, firebase',
         address: 'https://ak-repetitor.herokuapp.com'
     },
