@@ -13,7 +13,7 @@
     <list default="true" id="91e502f4-efaf-4d48-9362-09862d756e3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills/Skills.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +283,8 @@
       <workItem from="1622757061119" duration="2560000" />
       <workItem from="1622788169003" duration="4000" />
       <workItem from="1624522852395" duration="4957000" />
-      <workItem from="1624825364579" duration="18000" />
+      <workItem from="1624825364579" duration="642000" />
+      <workItem from="1625249123749" duration="492000" />
     </task>
     <servers />
   </component>

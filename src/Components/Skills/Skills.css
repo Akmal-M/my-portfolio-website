@@ -104,7 +104,7 @@
     }
     .skills .img img {
         width: 100%;
-        display: block;
+        display: none;
     }
     .skills .skills-content .skill-box .skill-bar {
         height: 10px;
